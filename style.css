@@ -1,0 +1,16 @@
+body
+{
+    background-color: blueviolet;
+}
+
+div
+{
+    background-color: lightblue;
+}
+
+input
+{
+    background-color: blue;
+    color: black;
+    font-weight: bold;
+}
